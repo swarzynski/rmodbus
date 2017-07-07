@@ -8,3 +8,5 @@ doc/
 Gemfile.lock
 .rvmrc
 tags
+.idea
+
